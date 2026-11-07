@@ -1,0 +1,11 @@
+# Public documentation only.
+*
+!README.md
+!QUICKSTART.md
+!API.md
+!MODELS.md
+!CLIENTS.md
+!BILLING.md
+!FAQ.md
+!SECURITY.md
+!.gitignore
